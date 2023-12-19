@@ -1,6 +1,10 @@
 <h1>Cookie Cruncher</h1>
 <p>Este é um projeto simples chamado "Cookie Cruncher", onde os usuários clicam em uma imagem de cookie para acumular cliques em um determinado tempo. O projeto utiliza HTML, CSS e JavaScript para criar uma experiência interativa e divertida.</p>
 
+![image](https://github.com/Jeanpk12/GAME-COOKIE-CRUNCHER/assets/122842874/feb0d590-ae36-4f2d-b785-6b689d43eca5)
+
+<a href="https://jeanpk12.github.io/GAME-COOKIE-CRUNCHER/" target="_blank">GitHub Pages</a>
+
 <h2>Como Funciona</h2>
 <ol>
   <li>Abra o arquivo index.html em um navegador da web.</li>
