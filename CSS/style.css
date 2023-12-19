@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .container {
+    width: 600px;
+    height: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    background: #ffffff;
+    box-shadow:  20px 20px 60px #d9d9d9,
+                -20px -20px 60px #ffffff;
+}
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #D25D18;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  img {
+    width: 200px;
+    transition: all 0.3s;
+  }
+
+  img:hover{
+    transform: scale(1.05);
+  }
+
+  .contador {
+    margin-top: 60px;
+    min-width: 75px;
+    font-size: 36px;
+    text-align: center;
+    color: #ffffff;
+    padding: 16px;
+    border-radius: 50px;
+    background: #FFB947;
+    -webkit-box-shadow: 0px 0px 67px -29px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 67px -29px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 67px -29px rgba(0,0,0,0.75);
+  }
+  
+
+  .contagem-regressiva{
+    margin-bottom: 30px;
+    min-width: 75px;
+    max-width: 500px;
+    font-size: 36px;
+    text-align: center;
+    color: #ffffff;
+    padding: 16px;
+    border-radius: 50px;
+    background: #8E3316;
+    -webkit-box-shadow: 0px 0px 67px -29px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 67px -29px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 67px -29px rgba(0,0,0,0.75);
+  }
