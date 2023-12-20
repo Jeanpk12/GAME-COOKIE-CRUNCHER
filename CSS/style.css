@@ -38,6 +38,7 @@ body {
 
   img {
     width: 200px;
+    cursor: pointer;
     transition: all 0.3s;
   }
 
